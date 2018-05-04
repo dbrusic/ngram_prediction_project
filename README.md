@@ -20,6 +20,6 @@ Each script contains lines at the top that source the required project scripts. 
   
   
 [link](https://dbrusic.shinyapps.io/next_word_prediction) to Shiny App  
-[link](https://rpubs.com/dbrusic/ngram_prediction_presentation) to RStudio Presentation
+[link](https://rpubs.com/dbrusic/ngram_prediction_presentation) to RStudio Presentation  
 [link](https://github.com/dbrusic/ngram_prediction_shiny_app) to app GitHub repo
 
