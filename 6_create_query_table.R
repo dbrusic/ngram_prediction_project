@@ -257,8 +257,8 @@ n3 <- readRDS("train_3grams_mle.rds")
 n4 <- readRDS("train_4grams_mle.rds")
 n5 <- readRDS("train_5grams_mle.rds")
 
-n2 <- n2[frequency > 2]
-n3 <- n3[frequency > 2]
+n2 <- n2[frequency > 3]
+n3 <- n3[frequency > 3]
 n4 <- n4[frequency > 2]
 n5 <- n5[frequency > 2]
 
